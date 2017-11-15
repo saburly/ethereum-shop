@@ -14,4 +14,4 @@ the contract and displays the item on the website
 A user creates an account on the website, through his wallet sends ethereum to the shop contract address and recieves tokens
 
 Once a user acquires tokens, they can be used to buy items, at which point the website issues transferItem method call
-on the contract and transfers item possession the user
+on the contract and transfers item ownership to the user
